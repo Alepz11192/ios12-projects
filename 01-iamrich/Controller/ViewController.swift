@@ -37,7 +37,7 @@ class ViewController: UIViewController {
         controller.addAction(actionTwo)
         
         let actionThree = UIAlertAction(title: "Cancelar", style: .cancel){ _ in
-            print("He pulsado el boton Cancelar")
+            print("He pulsado el boton Cancelar :D")
         }
         controller.addAction(actionThree)
 
